@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea1d949b5c34b4c439537fb5a0e00769, type: 3}
+  m_Name: SO_LevelData9
+  m_EditorClassIdentifier: 
+  rewardCoin: 300
+  levelName: Level2
+  modelDatas:
+  - modelPrefab: {fileID: 5076252832992919324, guid: 486b5989557c13d448bcee8ee146e225, type: 3}
+    position: {x: 0, y: 0, z: -1}
+  - modelPrefab: {fileID: 7641293651057028990, guid: 35be201f299149f47b600b4daa1ab423, type: 3}
+    position: {x: 0, y: 1, z: 15}
+  - modelPrefab: {fileID: 6934473257679711482, guid: 4335b8a30175dc048878fc9f72a7ed0b, type: 3}
+    position: {x: -2, y: 1.5, z: 25}
+  - modelPrefab: {fileID: 4149311822491055682, guid: 1ef26c3e869e92b49a76b5b75a577d27, type: 3}
+    position: {x: 0.5, y: 1.5, z: 35}
+  - modelPrefab: {fileID: 1864869926545018680, guid: 479c10f45dc785546bd10c2230d2d175, type: 3}
+    position: {x: 0, y: 1.5, z: 45}
+  - modelPrefab: {fileID: 2418815394099209117, guid: 703b3d19bec5d3a488c04ee354498559, type: 3}
+    position: {x: 0.3, y: 1.5, z: 75}
+  - modelPrefab: {fileID: 4149311822491055682, guid: 1ef26c3e869e92b49a76b5b75a577d27, type: 3}
+    position: {x: 0.5, y: 1.5, z: 85}
